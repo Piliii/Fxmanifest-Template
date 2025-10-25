@@ -35,4 +35,5 @@ resource-name/
 
 ## Notes
 
-- Each vehicle should have its own folder under `data/`
+- Each vehicle should have its own folder under `data/`.
+- Also check out the `optional/` folder in this repos.
