@@ -2,7 +2,7 @@ fx_version 'cerulean'
 games { 'gta5' }
 author 'AyoPili'
 description 'FiveM fxmanifest Template for Vehicles.'
-version '1.1.0'
+version '1.1.1'
 client_script {
 	-- Client scripts here.
 }
@@ -22,5 +22,6 @@ data_file 'WEAPON_METADATA_FILE' 'data/**/weaponarchetypes.meta'
 data_file 'WEAPONINFO_FILE' 'data/**/weapons.meta'
 data_file 'VEHICLE_WEAPON_FILE' 'data/**/vehicleweapons.meta'
 data_file 'CONTENT_UNLOCKING_META_FILE' 'data/**/contentunlocks.meta' 
+data_file 'DLCTEXT_FILE' 'data/**/dlctext.meta'
 data_file 'EXPLOSION_INFO_FILE' 'data/**/explosion.meta'
 data_file 'EXPLOSIONFX_FILE' 'data/**/explosionfx.dat'
